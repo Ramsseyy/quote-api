@@ -1,0 +1,39 @@
+html {
+  background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300&display=swap');
+
+.Container {
+  background-color: #ffffff;
+  padding: 5em;
+  width: 30vw;
+  height: 20vh;
+  margin: auto;
+  margin-top: 15%;
+  border: 2px solid black;
+}
+
+.text {
+  text-align: center;
+  margin-top: 5%;
+  font-family: 'Roboto Slab', serif;
+
+}
+
+.author {
+  text-align: right;
+  font-family: 'Roboto Slab', serif;
+
+}
+
+.new {
+  background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+  border: none;
+  color: black;
+  padding: 1em 2em;
+  margin-left: 35%;
+  color: white;
+  font-family: 'Roboto Slab', serif;
+
+}
